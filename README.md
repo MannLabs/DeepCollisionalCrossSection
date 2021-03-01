@@ -1,9 +1,10 @@
 # CCS Data analysis
 
-Code to reproduce results from Meier et al.: Deep learning the collisional cross sections of the peptide universe from a million training samples. For the deep learning model and CCS prediction, please see also https://github.com/theislab/DeepCollisionalCrossSection. 
+Code to reproduce results from Meier et al., Deep learning the collisional cross sections of the peptide universe from a million experimental values. For the deep learning model and CCS prediction, please see also https://github.com/theislab/DeepCollisionalCrossSection. 
 
-Pre-print:
-- biorxiv: https://www.biorxiv.org/content/10.1101/2020.05.19.102285v1 (doi: 10.1101/2020.05.19.102285)
+Reference:
+- Meier, F., Köhler, N.D., Brunner, AD. et al. Deep learning the collisional cross sections of the peptide universe from a million experimental values. Nat Commun 12, 1185 (2021). https://doi.org/10.1038/s41467-021-21352-8 
+- bioRxiv: https://dx.doi.org/10.1101/2020.05.19.102285
 
 ## Where to find the data
 
